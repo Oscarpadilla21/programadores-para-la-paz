@@ -1,0 +1,9 @@
+Como subir un video en Youtube 
+
+1. Iniciar sesión en YouTube y hacer clic en el ícono "Crear" (+).
+2. Seleccionar el archivo de video desde el dispositivo.
+3. Esperar a que termine la carga del archivo.
+4. Escribir un título claro y una descripción breve.
+5. Subir una miniatura llamativa (opcional pero recomendable).
+6. Elegir la visibilidad (público, privado o no listado).
+7. Revisar la configuración y presionar "Publicar".

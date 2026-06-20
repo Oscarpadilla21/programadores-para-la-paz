@@ -1,0 +1,10 @@
+¿Qué relación encuentras entre el uso responsable de la información en internet, la participación ciudadana y la organización del trabajo técnico con herramientas como Git?
+
+La conexión esencial se encuentra en la trazabilidad y la validación conjunta.
+De la misma manera, Git requiere un registro público de modificaciones y revisiones (commits y pull requests),
+la participación ciudadana responsable exige procesos claros donde las decisiones provengan de un origen comprobable.
+La aplicación ética de la información en internet funciona como una revisión social del código: filtrar falsedades y verificar fuentes impide que errores (o desinformación) se integren en la rama principal de la opinión pública.
+Git organiza el trabajo técnico al manejar ramas simultáneas y solucionar conflictos; de forma similar,
+La población maneja diferentes posiciones sociales, en las que el diálogo y la evidencia (información confiable) solucionan las "integraciones" problemáticas.
+La inmutabilidad de Git promueve la responsabilidad, un fundamento que llevado a internet.
+requiere que los ciudadanos se hagan responsables de lo que comparten, y a las instituciones, de sus políticas.

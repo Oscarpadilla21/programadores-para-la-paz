@@ -1,0 +1,9 @@
+Conocer la terminal es importante para cualquier desarrollador. Esto se debe a que la terminal nos permite hablar directamente con el sistema operativo de manera rápida.
+
+La terminal es útil para moverse entre carpetas y archivos. Si no usamos la interfaz gráfica, podemos ahorrar tiempo. De esta forma, podemos ir de un archivo a otro o de una carpeta a otra mucho más rápido.
+
+La terminal nos da mucho control sobre nuestros proyectos. Podemos escribir exactamente lo que necesitamos y realizar la tarea exacta que queremos. Esto es fundamental en muchos entornos de desarrollo y herramientas modernas que requieren conocimientos de terminal.
+
+Saber trabajar con la terminal nos ayuda a mantener las cosas organizadas. Esto es crucial cuando trabajamos con sistemas de control de versiones como Git. La terminal también nos permite automatizar tareas que debemos ejecutar una y otra vez mediante scripts. Esto nos hace más productivos.
+
+Además, saber cómo funciona la terminal nos da una idea de cómo funciona el sistema por dentro. En resumen, saber utilizar la terminal hace que un desarrollador sea más autosuficiente y eficiente. Podemos hacer más cosas por nosotros mismos y ser más rápidos en nuestro trabajo.

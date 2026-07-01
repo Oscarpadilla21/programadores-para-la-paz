@@ -1,0 +1,13 @@
+¿Cómo podrían las APIs ayudar a que las comunidades compartan información, 
+reportes o alertas de manera organizada?
+
+Las apis podrian ayduar a que las comunidades organizen el intercambio de los datos al esteblecer un esquema
+de datos rigidos para cada reporte que se quiera realizar, permitiendo la mitigacion del caos al momento de 
+tranmitir información relevante para cadazona.
+Esto tambien hace posible la filtracion de datos permitiria la clasificacion automatica para que las alertas o
+avisos se organizen segun la prioridad.
+Les permitiria mediante reglas internas enrutar reportes por comites que sean establecidos, evitando que se genere
+ruido innecesario.
+Cada interacion completa crearia un historial cronologico y trazable que seria totalmente buscable, en resumidas cuentas
+el uso e implementacion de las APIs se convertirian los flujos caoticos en archivo ordenados para la realizacion de auditorias y
+el analisis de patrones.

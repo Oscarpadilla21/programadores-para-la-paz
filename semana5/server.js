@@ -1,5 +1,7 @@
 const express = require('express');
 const app = express();
+const PORT = process.env.PORT || 3000;
+const HOST = '0.0.0.0';
 
 app.use(express.json());
 
@@ -24,6 +26,6 @@ app.post('/reporte', (req, res) => {
   });
 });
 
-app.listen(3000, () => {
-  console.log('Servidor ejecutándose en puerto 3000');
+app.listen(PORT, HOST, () => {
+  console.log(`Servidor ejecutándose en http://${HOST}:${PORT}`);
 });
